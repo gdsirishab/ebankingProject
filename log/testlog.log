@@ -1,0 +1,82 @@
+2024-09-13 17:31:07,951 - e banking -INFO - naviagting the web page
+2024-09-13 17:31:08,224 - e banking -INFO - entered the username
+2024-09-13 17:31:08,404 - e banking -INFO - entered the password
+2024-09-13 17:31:09,930 - e banking -INFO - clicked on loginbtn
+2024-09-13 17:33:50,970 - e banking -INFO - naviagting the web page
+2024-09-13 17:33:51,234 - e banking -INFO - entered the username
+2024-09-13 17:33:51,410 - e banking -INFO - entered the password
+2024-09-13 17:33:52,490 - e banking -INFO - clicked on loginbtn
+2024-09-13 17:33:52,515 - e banking -INFO - title is verified & login is successful
+2024-09-13 17:34:44,464 - e banking -INFO - naviagting the web page
+2024-09-13 17:34:44,728 - e banking -INFO - entered the username
+2024-09-13 17:34:44,852 - e banking -INFO - entered the password
+2024-09-13 17:34:45,949 - e banking -INFO - clicked on loginbtn
+2024-09-13 17:34:48,968 - e banking -INFO - title is verified & login is successful
+2024-09-13 17:38:43,939 - e banking -INFO - naviagting the web page
+2024-09-13 17:38:44,321 - e banking -INFO - entered the username
+2024-09-13 17:38:44,526 - e banking -INFO - entered the password
+2024-09-13 17:38:45,569 - e banking -INFO - clicked on loginbtn
+2024-09-13 17:38:48,613 - e banking -INFO - title is verified & login is successful
+2024-09-13 18:13:03,758 - e banking -INFO - naviagting the web page
+2024-09-13 18:13:04,017 - e banking -INFO - entered the username
+2024-09-13 18:13:04,152 - e banking -INFO - entered the password
+2024-09-13 18:13:05,124 - e banking -INFO - clicked on loginbtn
+2024-09-13 18:13:08,145 - e banking -INFO - title is verified & login is successful
+2024-09-13 19:46:29,421 - e banking -INFO - naviagting the web page
+2024-09-13 19:46:29,667 - e banking -INFO - entered the username
+2024-09-13 19:46:29,870 - e banking -INFO - entered the password
+2024-09-13 19:46:30,918 - e banking -INFO - clicked on loginbtn
+2024-09-13 19:46:33,966 - e banking -INFO - title is verified & login is successful
+2024-09-13 21:13:42,228 - e banking -INFO - navigating to url
+2024-09-13 21:13:45,004 - e banking -INFO - entered username
+2024-09-13 21:13:45,118 - e banking -INFO - entered password
+2024-09-13 21:13:45,637 - e banking -INFO - click on btn
+2024-09-13 21:13:46,834 - e banking -INFO - navigating to url
+2024-09-13 21:13:47,022 - e banking -INFO - entered username
+2024-09-13 21:13:47,134 - e banking -INFO - entered password
+2024-09-13 21:13:47,542 - e banking -INFO - click on btn
+2024-09-13 21:13:48,655 - e banking -INFO - navigating to url
+2024-09-13 21:13:48,821 - e banking -INFO - entered username
+2024-09-13 21:13:48,948 - e banking -INFO - entered password
+2024-09-13 21:13:49,336 - e banking -INFO - click on btn
+2024-09-13 21:13:50,403 - e banking -INFO - navigating to url
+2024-09-13 21:13:50,671 - e banking -INFO - entered username
+2024-09-13 21:13:50,800 - e banking -INFO - entered password
+2024-09-13 21:13:51,192 - e banking -INFO - click on btn
+2024-09-13 21:13:52,532 - e banking -INFO - navigating to url
+2024-09-13 21:13:52,689 - e banking -INFO - entered username
+2024-09-13 21:13:52,815 - e banking -INFO - entered password
+2024-09-13 21:13:53,280 - e banking -INFO - click on btn
+2024-09-13 21:17:31,262 - e banking -INFO - navigating to url
+2024-09-13 21:17:31,504 - e banking -INFO - entered username
+2024-09-13 21:17:31,636 - e banking -INFO - entered password
+2024-09-13 21:17:32,080 - e banking -INFO - click on btn
+2024-09-13 21:17:33,161 - e banking -INFO - navigating to url
+2024-09-13 21:17:33,337 - e banking -INFO - entered username
+2024-09-13 21:17:33,493 - e banking -INFO - entered password
+2024-09-13 21:17:33,949 - e banking -INFO - click on btn
+2024-09-13 21:17:35,064 - e banking -INFO - navigating to url
+2024-09-13 21:17:35,240 - e banking -INFO - entered username
+2024-09-13 21:17:35,400 - e banking -INFO - entered password
+2024-09-13 21:17:35,972 - e banking -INFO - click on btn
+2024-09-13 21:17:37,295 - e banking -INFO - navigating to url
+2024-09-13 21:17:37,430 - e banking -INFO - entered username
+2024-09-13 21:17:37,550 - e banking -INFO - entered password
+2024-09-13 21:17:38,148 - e banking -INFO - click on btn
+2024-09-13 21:17:39,492 - e banking -INFO - navigating to url
+2024-09-13 21:17:39,655 - e banking -INFO - entered username
+2024-09-13 21:17:39,775 - e banking -INFO - entered password
+2024-09-13 21:17:40,265 - e banking -INFO - click on btn
+2024-09-13 22:16:23,288 - e banking -INFO - username
+2024-09-13 22:16:23,443 - e banking -INFO - password
+2024-09-13 22:16:24,389 - e banking -INFO - clicked on button
+2024-09-13 22:16:28,114 - e banking -INFO - linked on add new customer
+2024-09-13 22:16:31,249 - e banking -INFO - entered name
+2024-09-13 22:16:31,382 - e banking -INFO - selected the radiobtn
+2024-09-13 22:16:31,695 - e banking -INFO - entered dob
+2024-09-13 22:16:31,862 - e banking -INFO - entered address
+2024-09-13 22:16:31,982 - e banking -INFO - entered city name
+2024-09-13 22:16:32,125 - e banking -INFO - entered the state
+2024-09-13 22:16:32,298 - e banking -INFO - enter pincode
+2024-09-13 22:16:32,466 - e banking -INFO - enter mobile no
+2024-09-13 22:16:32,722 - e banking -INFO - enter the email
